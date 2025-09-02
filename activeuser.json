@@ -17,7 +17,14 @@
         "device_id": "fdce9c4c1537e493",
         "username": "Admin",
         "password": "Admin123",
-        "expirydate": "15-08-2025",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "mahin",
+        "username": "Mahin",
+        "password": "Mahin123",
+        "expirydate": "15-09-2025",
         "Allowoffline": false
     }
 ]
