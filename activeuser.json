@@ -21,9 +21,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "mahin",
-        "username": "Mahin",
-        "password": "Mahin123",
+        "device_id": "Q Signal Generator",
+        "username": "QFSG",
+        "password": "QFSG",
         "expirydate": "15-09-2025",
         "Allowoffline": false
     }
